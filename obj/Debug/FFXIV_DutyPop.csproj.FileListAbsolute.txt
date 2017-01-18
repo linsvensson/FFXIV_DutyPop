@@ -1,0 +1,15 @@
+c:\users\lin\documents\visual studio 2012\Projects\FFXIV_Push\FFXIV_DutyPop\bin\Debug\FFXIV_DutyPop.exe.config
+c:\users\lin\documents\visual studio 2012\Projects\FFXIV_Push\FFXIV_DutyPop\obj\Debug\FFXIV_DutyPop.csprojResolveAssemblyReference.cache
+c:\users\lin\documents\visual studio 2012\Projects\FFXIV_Push\FFXIV_DutyPop\obj\Debug\FFXIV_DutyPop.Main.resources
+c:\users\lin\documents\visual studio 2012\Projects\FFXIV_Push\FFXIV_DutyPop\obj\Debug\FFXIV_DutyPop.Properties.Resources.resources
+c:\users\lin\documents\visual studio 2012\Projects\FFXIV_Push\FFXIV_DutyPop\obj\Debug\FFXIV_DutyPop.csproj.GenerateResource.Cache
+c:\users\lin\documents\visual studio 2012\Projects\FFXIV_Push\FFXIV_DutyPop\bin\Debug\FFXIV_DutyPop.exe
+c:\users\lin\documents\visual studio 2012\Projects\FFXIV_Push\FFXIV_DutyPop\bin\Debug\FFXIV_DutyPop.pdb
+c:\users\lin\documents\visual studio 2012\Projects\FFXIV_Push\FFXIV_DutyPop\obj\Debug\FFXIV_DutyPop.exe
+c:\users\lin\documents\visual studio 2012\Projects\FFXIV_Push\FFXIV_DutyPop\obj\Debug\FFXIV_DutyPop.pdb
+C:\Users\Lin\documents\visual studio 2012\Projects\FFXIV_Push\FFXIV_DutyPop\obj\Debug\FFXIV_DutyPop.g.resources
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\FFXIV_Push\FFXIV_DutyPop\bin\Debug\FFXIVAPP.Memory.dll
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\FFXIV_Push\FFXIV_DutyPop\obj\Debug\FFXIV_DutyPop.InputBox.resources
+C:\Users\Lin\Documents\GitHub\FFXIV_Push\FFXIV_DutyPop\bin\Debug\FFXIV_DutyPop.exe.config
+C:\Users\Lin\Documents\GitHub\FFXIV_Push\FFXIV_DutyPop\obj\Debug\FFXIV_DutyPop.exe
+C:\Users\Lin\Documents\GitHub\FFXIV_Push\FFXIV_DutyPop\obj\Debug\FFXIV_DutyPop.pdb
