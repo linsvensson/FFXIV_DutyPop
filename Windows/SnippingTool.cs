@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Drawing;
-using System.Drawing.Drawing2D;
 using System.Windows.Forms;
 
 namespace FFXIV_DutyPop
@@ -8,6 +7,10 @@ namespace FFXIV_DutyPop
     public partial class SnippingTool : Form
     {
         public static SnippingTool Snipper;
+        public Image Image { get; set; }
+
+        private Rectangle rcSelect = new Rectangle();
+        private Point pntStart;
 
         public static Image Snip()
         {
@@ -40,12 +43,6 @@ namespace FFXIV_DutyPop
             WindowState = FormWindowState.Maximized;
             DoubleBuffered = true;
         }
-
-        public Image Image { get; set; }
-
-        private Rectangle rcSelect = new Rectangle();
-
-        private Point pntStart;
 
         public Image GetImage()
         {
